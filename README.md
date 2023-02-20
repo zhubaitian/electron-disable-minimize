@@ -23,7 +23,7 @@ This module only works in windows, but installable mac and linux. (mac and linux
 ### 1. Install Module
 
 ```shell
-npm i -S electron-disable-minimize   # or yarn add electron-disable-minimize
+npm i -S https://github.com/zhubaitian/electron-disable-minimize.git
 ```
 
 ### 2. Rebuild Package
